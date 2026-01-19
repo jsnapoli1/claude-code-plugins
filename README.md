@@ -7,7 +7,7 @@ A personal collection of Claude Code plugins.
 Add this marketplace to Claude Code:
 
 ```
-/plugin marketplace add github:jsnapoli1/claude-plugins
+/plugin marketplace add github:jsnapoli1/claude-code-plugins
 ```
 
 Then install any plugin:
