@@ -1,0 +1,7 @@
+{
+  "name": "chat-gists",
+  "version": "1.0.0",
+  "description": "Export Claude Code chat transcripts to GitHub Gists",
+  "author": { "name": "jsnapoli1" },
+  "keywords": ["gist", "github", "export", "transcript", "chat"]
+}
