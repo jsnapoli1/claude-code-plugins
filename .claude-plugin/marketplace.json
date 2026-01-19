@@ -1,0 +1,20 @@
+{
+  "name": "jsnapoli1",
+  "owner": {
+    "name": "jsnapoli1",
+    "email": "jsnapoli1@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "chat-gists",
+      "source": "./chat-gists",
+      "description": "Export Claude Code chat transcripts to GitHub Gists",
+      "author": {
+        "name": "jsnapoli1"
+      }
+    }
+  ]
+}
